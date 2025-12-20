@@ -7,7 +7,7 @@ Welcome to my academic portfolio! I am currently a Ph.D. student in Food and Res
 ##  Education
 
 - **Ph.D. in Food and Resource Economics**, University of Florida (2023–Present)  
-  Graduate Research Assistant | GPA: 3.77/4.00  
+  Graduate Research Assistant | GPA: 3.83/4.00  
   Advisor: Dr. Bachir Kassas
 
 - **M.S. in Agricultural and Applied Economics**, University of Georgia (2021–2023)  
